@@ -92,9 +92,10 @@
   },
   {
     "key" : "RN",
-    "name" : "Rio Grande do Norte",
+    "name" : "SmartNet Rio Grande do Norte",
     "latitude" : -5.79357,
-    "longitude" : -35.1986
+    "longitude" : -35.1986,
+    "url" : "https://monitor.tmobil.com.br:3000/d/jS3k_24nk/emeb-darci-troncoso-peres"
   },
   {
     "key" : "TO",
