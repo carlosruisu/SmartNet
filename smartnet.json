@@ -184,7 +184,8 @@
     "key" : "smartnet-emeb-pe-donizetti",
     "name" : "Espírito Santo",
     "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "longitude" : -40.3128,
+    "url" : "https://monitor.tmobil.com.br:3000/d/hjkmjS3k_24nk/emeb-pe-donizetti"
   },
   {
     "key" : "vpn-vgs-homologacao",
