@@ -178,9 +178,10 @@
   },
   {
     "key" : "larcom-gw-01",
-    "name" : "Espírito Santo",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "name" : "LarCom - UniCamp",
+    "nameurl" : "http://www.lapcom.fee.unicamp.br",
+    "latitude" : -22.820833,
+    "longitude" : -47.066476
   },
   {
     "key" : "smartnet-emeb-pe-donizetti",
