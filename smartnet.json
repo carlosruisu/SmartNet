@@ -180,6 +180,10 @@
     "key" : "larcom-gw-01",
     "name" : "LarCom - UniCamp",
     "nameurl" : "http://www.lapcom.fee.unicamp.br",
+    "link" : "https://monitor.tmobil.com.br:3000/d/jS3k_24nk/emeb-darci-troncoso-peres",
+    "url" : "https://monitor.tmobil.com.br:3000/d/jS3k_24nk/emeb-darci-troncoso-peres",
+    "nameurl" : "https://monitor.tmobil.com.br:3000/d/jS3k_24nk/emeb-darci-troncoso-peres",
+    "namelink" : "https://monitor.tmobil.com.br:3000/d/jS3k_24nk/emeb-darci-troncoso-peres",
     "latitude" : -22.820833,
     "longitude" : -47.066476
   },
