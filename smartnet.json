@@ -1,10 +1,9 @@
 [
   {
     "key" : "SE",
-    "name" : "Larcom",
+    "name" : "Sergipe",
     "latitude" : -10.9091,
     "longitude" : -37.0677,
-    "url" : "https://monitor.tmobil.com.br:3000/d/jS3k_24nk/emeb-darci-troncoso-peres"
   },
   {
     "key" : "PA",
@@ -92,9 +91,7 @@
   },
   {
     "key" : "RN",
-    "name" : "SmartNet RN",
-    "link" : "https://monitor.tmobil.com.br:3000/d/jS3k_24nk/emeb-darci-troncoso-peres",
-    "url" : "https://monitor.tmobil.com.br:3000/d/jS3k_24nk/emeb-darci-troncoso-peres",
+    "name" : "Rio grande do norte",
     "latitude" : -5.79357,
     "longitude" : -35.1986
   },
@@ -207,36 +204,6 @@
     "longitude" : -40.3128
   },
   {
-    "key" : "Zabbix Server TMobil",
-    "name" : "Zabbix Server TMobil - UniCamp",
-    "latitude" : -22.8148662021316,
-    "longitude" : -47.06472567452859
-  },
-  {
-    "key" : "vpn-casa",
-    "name" : "Espírito Santo",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128,
-    "key" : "vpn-casa-leonardo",
-    "name" : "Espírito Santo",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128,
-    "key" : "larcom-gw-01",
-    "name" : "LarCom - UniCamp",
-    "latitude" : -22.820833,
-    "longitude" : -47.066476,
-    "key" : "smartnet-emeb-pe-donizetti",
-    "name" : "EMEB Pe Donizetti - Vargem Grande do Sul",
-    "latitude" : -21.822002364967485,
-    "longitude" : -46.896858449044764,
-    "key" : "vpn-vgs-homologacao",
-    "name" : "Espírito Santo",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128,
-    "key" : "vpn-rdv-server",
-    "name" : "Espírito Santo",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128,
     "key" : "Zabbix Server TMobil",
     "name" : "Zabbix Server TMobil - UniCamp",
     "latitude" : -22.8148662021316,
