@@ -211,5 +211,35 @@
     "name" : "Zabbix Server TMobil - UniCamp",
     "latitude" : -22.8148662021316,
     "longitude" : -47.06472567452859
+  },
+  {
+    "key" : "vpn-casa-edelson-cdv01",
+    "name" : "Espírito Santo",
+    "latitude" : -20.3155,
+    "longitude" : -40.3128
+    "key" : "vpn-casa-leonardo",
+    "name" : "Espírito Santo",
+    "latitude" : -20.3155,
+    "longitude" : -40.3128
+    "key" : "larcom-gw-01",
+    "name" : "LarCom - UniCamp",
+    "latitude" : -22.820833,
+    "longitude" : -47.066476
+    "key" : "smartnet-emeb-pe-donizetti",
+    "name" : "EMEB Pe Donizetti - Vargem Grande do Sul",
+    "latitude" : -21.822002364967485,
+    "longitude" : -46.896858449044764,
+    "key" : "vpn-vgs-homologacao",
+    "name" : "Espírito Santo",
+    "latitude" : -20.3155,
+    "longitude" : -40.3128
+    "key" : "vpn-rdv-server",
+    "name" : "Espírito Santo",
+    "latitude" : -20.3155,
+    "longitude" : -40.3128
+    "key" : "Zabbix Server TMobil",
+    "name" : "Zabbix Server TMobil - UniCamp",
+    "latitude" : -22.8148662021316,
+    "longitude" : -47.06472567452859
   }
 ]
