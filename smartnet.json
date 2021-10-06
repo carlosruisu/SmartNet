@@ -204,6 +204,12 @@
     "longitude" : -40.3128
   },
   {
+    "key" : "zabbix-server-tmobil",
+    "name" : "Zabbix Server TMobil-UniCamp",
+    "latitude" : -22.8148662021316,
+    "longitude" : -47.06472567452859
+  }
+  {
     "key" : "Zabbix Server TMobil",
     "name" : "Zabbix Server TMobil - UniCamp",
     "latitude" : -22.8148662021316,
