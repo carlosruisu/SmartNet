@@ -186,6 +186,12 @@
     "longitude" : -46.8968
   },
   {
+    "key" : "smartnet-darci-troncoso-peres",
+    "name" : "EMEB Darci Troncoso Peres - Vargem Grande do Sul",
+    "latitude" : -21.82683,
+    "longitude" : -46.90577
+  },
+  {
     "key" : "vpn-vgs-homologacao",
     "name" : "vgs-homologacao",
     "latitude" : -20.3155,
