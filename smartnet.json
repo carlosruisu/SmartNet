@@ -163,13 +163,13 @@
   },
   {
     "key" : "vpn-casa-edelson-cdv01",
-    "name" : "Espírito Santo",
+    "name" : "casa-edelson",
     "latitude" : -20.3155,
     "longitude" : -40.3128
   },
   {
     "key" : "vpn-casa-leonardo",
-    "name" : "Espírito Santo",
+    "name" : "casa-leonardo",
     "latitude" : -20.3155,
     "longitude" : -40.3128
   },
@@ -193,13 +193,13 @@
   },
   {
     "key" : "vpn-vgs-homologacao",
-    "name" : "Espírito Santo",
+    "name" : "vgs-homologacao",
     "latitude" : -20.3155,
     "longitude" : -40.3128
   },
   {
     "key" : "vpn-rdv-server",
-    "name" : "Espírito Santo",
+    "name" : "rdv-server",
     "latitude" : -20.3155,
     "longitude" : -40.3128
   },
