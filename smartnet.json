@@ -176,20 +176,14 @@
   {
     "key" : "larcom-gw-01",
     "name" : "LarCom - UniCamp",
-    "nameurl" : "http://www.lapcom.fee.unicamp.br",
-    "link" : "https://monitor.tmobil.com.br:3000/d/jS3k_24nk/emeb-darci-troncoso-peres",
-    "url" : "https://monitor.tmobil.com.br:3000/d/jS3k_24nk/emeb-darci-troncoso-peres",
-    "nameurl" : "https://monitor.tmobil.com.br:3000/d/jS3k_24nk/emeb-darci-troncoso-peres",
-    "namelink" : "https://monitor.tmobil.com.br:3000/d/jS3k_24nk/emeb-darci-troncoso-peres",
     "latitude" : -22.820833,
     "longitude" : -47.066476
   },
   {
     "key" : "smartnet-emeb-pe-donizetti",
     "name" : "EMEB Pe Donizetti - Vargem Grande do Sul",
-    "latitude" : -21.822002364967485,
-    "longitude" : -46.896858449044764,
-    "url" : "https://monitor.tmobil.com.br:3000/d/hjkmjS3k_24nk/emeb-pe-donizetti"
+    "latitude" : -21.8220,
+    "longitude" : -46.8968
   },
   {
     "key" : "vpn-vgs-homologacao",
@@ -206,13 +200,13 @@
   {
     "key" : "zabbix-server-tmobil",
     "name" : "Zabbix Server TMobil-UniCamp",
-    "latitude" : -22.8148662021316,
-    "longitude" : -47.06472567452859
+    "latitude" : -22.8148,
+    "longitude" : -47.0647
   }
   {
     "key" : "Zabbix Server TMobil",
     "name" : "Zabbix Server TMobil - UniCamp",
-    "latitude" : -22.8148662021316,
-    "longitude" : -47.06472567452859
+    "latitude" : -22.8148,
+    "longitude" : -47.0647
   }
 ]
