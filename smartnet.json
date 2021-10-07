@@ -181,15 +181,21 @@
   },
   {
     "key" : "smartnet-emeb-pe-donizetti",
-    "name" : "EMEB Pe Donizetti - Vargem Grande do Sul",
+    "name" : "EMEB Pe Donizetti",
     "latitude" : -21.8220,
     "longitude" : -46.8968
   },
   {
     "key" : "smartnet-darci-troncoso-peres",
-    "name" : "EMEB Darci Troncoso Peres - Vargem Grande do Sul",
+    "name" : "EMEB Darci Troncoso Peres",
     "latitude" : -21.82683,
     "longitude" : -46.90577
+  },
+  {
+    "key" : "smartnet-antonio-coury",
+    "name" : "EMEB Antonio Coury",
+    "latitude" : -21.84378,
+    "longitude" : -46.91870
   },
   {
     "key" : "vpn-vgs-homologacao",
