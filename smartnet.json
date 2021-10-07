@@ -198,6 +198,12 @@
     "longitude" : -46.91870
   },
   {
+    "key" : "smartnet-mario-beni",
+    "name" : "EMEB Mario Beni",
+    "latitude" : -21.84528,
+    "longitude" : -46.90679
+  },
+  {
     "key" : "vpn-vgs-homologacao",
     "name" : "vgs-homologacao",
     "latitude" : -20.3155,
