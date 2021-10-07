@@ -204,6 +204,24 @@
     "longitude" : -46.90679
   },
   {
+    "key" : "smartnet-prof-henrique-de-brito-novaes",
+    "name" : "EMEB Prof Henrique de Brito Novaes",
+    "latitude" : -21.84349,
+    "longitude" : -46.89566
+  },
+  {
+    "key" : "smartnet-prof-francisco-ribeiro-carril",
+    "name" : "EMEB Prof Francisco Ribeiro Carril",
+    "latitude" : -21.83782,
+    "longitude" : -46.89874
+  },
+  {
+    "key" : "smartnet-nair-bolonha",
+    "name" : "EMEB Nair Bolonha",
+    "latitude" : -21.84991,
+    "longitude" : -46.89666
+  },
+  {
     "key" : "vpn-vgs-homologacao",
     "name" : "vgs-homologacao",
     "latitude" : -20.3155,
